@@ -2,7 +2,10 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import projImg1 from "../assets/project-img1.png";
 import projImg2 from "../assets/project-img2.png";
-import projImg3 from "../assets/project-img3.png";
+import projImg3 from "../assets/dexVTU.png";
+import projImg4 from "../assets/birthdayApp.png";
+import projImg5 from "../assets/maryamWeb.png";
+import projImg6 from "../assets/weatherApp.png";
 import colorSharp2 from "../assets/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -21,24 +24,24 @@ const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "VTU APP",
+      description: "React & API Development",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Birthday Remainder App",
+      description: "React & Crude API",
+      imgUrl: projImg4,
     },
     {
-      title: "Business Startup",
+      title: "Business Flyer",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: projImg5,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "Weather API",
+      description: "Design & Fetch API Development",
+      imgUrl: projImg6,
     },
   ];
 

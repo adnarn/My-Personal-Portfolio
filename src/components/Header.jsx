@@ -47,7 +47,7 @@ import {BrowserRouter as Router, Link} from "react-router-dom";
             <span className="navbar-text">
               <div className="social-icon">
                  <a href="https://www.instagram.com/dex_coder" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="" /></a>
-                <a href="https://wa.me/2349072799446" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
+                <a href="https://wa.me/2349041434377" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
                 <a href="https://github.com/adnarn/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="" /></a>
               </div>
               <Link to='#connect'>
