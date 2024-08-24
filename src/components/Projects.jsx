@@ -85,12 +85,13 @@ const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
-                      <p>You can see more of my projects at my GitHub Page</p>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="third">
-                      <p>I have extensive experience in developing dynamic web applications and complex systems.
+                    <p>I have extensive experience in developing dynamic web applications and complex systems.
                          My portfolio demonstrates successful implementations of versatile and intuitive solutions,
                           showcasing my ability to address diverse challenges and deliver effective, user-focused results.</p>
+                    </Tab.Pane>
+                    <Tab.Pane eventKey="third">
+                          <p>You can see more of my projects at my GitHub Page</p>
+
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
