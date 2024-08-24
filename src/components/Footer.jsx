@@ -19,7 +19,7 @@ const Footer = () => {
                <a href="https://wa.me/2349041434377" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
                 <a href="https://github.com/adnarn/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="" /></a>
          </div>
-          <p>Copyright 2024. All Rights Reserved</p>
+          <p>&copy; 2024 Adnan@DexDynamics Software Solutions. <br /> All rights reserved.</p>
         </Col>
       </Row>
     </Container>

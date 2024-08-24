@@ -441,7 +441,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
-  height: 24rem;
+  /* height: 100%; */
+}
+.proj-imgbx img{
+  height: 17rem;
 }
 .proj-imgbx::before {
   content: "";

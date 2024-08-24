@@ -1,10 +1,10 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import projImg1 from "../assets/project-img1.png";
-import projImg2 from "../assets/project-img2.png";
+import projImg2 from "../assets/dexDash.png";
 import projImg3 from "../assets/dexVTU.png";
 import projImg4 from "../assets/birthdayApp.png";
-import projImg5 from "../assets/maryamWeb.png";
+import projImg5 from "../assets/inventory.png";
 import projImg6 from "../assets/weatherApp.png";
 import colorSharp2 from "../assets/color-sharp2.png";
 import 'animate.css';
@@ -19,8 +19,8 @@ const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Dex Dashboard",
+      description: "lA MERN Dashboard with User Profile Authentication",
       imgUrl: projImg2,
     },
     {
@@ -34,8 +34,8 @@ const Projects = () => {
       imgUrl: projImg4,
     },
     {
-      title: "Business Flyer",
-      description: "Design & Development",
+      title: "Inventory Managemet",
+      description: "NodeJs app that allows you to store Data in Excel Sheet ",
       imgUrl: projImg5,
     },
     {
@@ -84,8 +84,8 @@ const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                    <Tab.Pane eventKey="second">
+                      <p>You can see more of my projects at my GitHub Page</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <p>I have extensive experience in developing dynamic web applications and complex systems.
