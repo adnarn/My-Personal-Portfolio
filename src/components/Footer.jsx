@@ -16,7 +16,7 @@ const Footer = () => {
         <Col size={12} sm={6} className="text-center text-sm-end">
           <div className="social-icon">
                <a href="https://www.instagram.com/dex_coder" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="" /></a>
-               <a href="https://wa.me/2349041434377" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
+               <a href="https://wa.me/2349041534377" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
                 <a href="https://github.com/adnarn/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="" /></a>
          </div>
           <p>&copy; 2024 Adnan@DexDynamics Software Solutions. <br /> All rights reserved.</p>
