@@ -56,7 +56,7 @@ const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`Hi! I'm Dex, `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "A Web Developer", "A Web Designer", "A Full Stack Developer", "A Software Developer",  ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm Adnan, `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "A Web Developer", "A Web Designer", "A Full Stack Developer", "A Software Developer",  ]'><span className="wrap">{text}</span></span></h1>
                  <br /><br /> <p>
    I'm a passionate full-stack developer specializing in creating dynamic, user-centric web applications. With a strong command over front-end technologies like HTML, CSS, JavaScript, and React, coupled with back-end expertise in Node.js and Python, I deliver comprehensive solutions that meet diverse client needs.  
 
